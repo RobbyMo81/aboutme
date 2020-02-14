@@ -1,6 +1,6 @@
 /* got the information for background image here https://www.w3schools.com/cssref/pr_background-image.asp */
 body{
-  background-image: url("images/beachandsky.jpg");
+  background-image: url("beachandsky.jpg");
 }
 image{
   display: inline-table;
